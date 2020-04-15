@@ -1,7 +1,7 @@
 # aoc-solutions
 Advent of Code Solutions - https://adventofcode.com/
 
-Repository for my solutions to AoC, organised by year. 
+Repository for my solutions to AoC, organised by year.  
 Each puzzle has a solution in C, Java and Python
 
 # 2019
